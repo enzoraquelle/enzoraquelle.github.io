@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/enzoraquelle/enzoraquelle.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-<p<strong>> Testasntado a criação</p> 
+<p> Testasntado a criação</p> 
 <h1> fodasi </h1>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
