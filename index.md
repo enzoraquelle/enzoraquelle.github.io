@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/enzoraquelle/enzoraquelle.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-<p><image:mapa.jpg </p> 
+<p>< img: "mapa.jpg" </p> 
  <p>essa é da braba</p>
  <p> essa tambem é </p>
 <p> Testasntado a criação</p> 
